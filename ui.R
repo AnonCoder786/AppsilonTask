@@ -44,10 +44,10 @@ body <- dashboardBody(
                icon('link', class = 'fa-lg'), a('shinyapps.io link', href = 'https://hassan-abbas.shinyapps.io/AppsilonTask/', target = "_blank"),
                br(),
                br(),
-               icon('github', class = 'fa-lg'), a('Source Code', href = 'https://github.com/AnonCoder786/', target = "_blank"),
+               icon('github', class = 'fa-lg'), a('Source Code', href = 'https://github.com/AnonCoder786/AppsilonTask/', target = "_blank"),
                br(),
                br(),
-               icon('github-alt', class = 'fa-lg'), a('My Github Page', href = 'https://github.com/AnonCoder786/AppsilonTask', target = "_blank"),
+               icon('github-alt', class = 'fa-lg'), a('My Github Page', href = 'https://github.com/AnonCoder786/', target = "_blank"),
                br(),
                br(),
                icon('linkedin', class = 'fa-lg'), a('My Linkedin Page', href = 'https://pk.linkedin.com/in/hassan-abbas-a54231130', target = "_blank"))

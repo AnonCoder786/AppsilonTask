@@ -26,6 +26,6 @@ Filtered data is displayed in the Data table section. Clicking any row of the ta
 Clicking the pointer on the map, pop-up displays details of the selected row.
 
 # Future Work
-Right Now this app using only Poland data. But in the future can be used for gloable data.
+Right Now this app using only Poland data. But in the future can be used for global data.
 
 As the dataset is given in one ( ≈ 20GB) file. Data Requires very large memory to be directly read into the app. So, by modifying a little code in [FilteringPolandDataOnly.R](Preprocessing/FilteringPolandDataOnly.R), we can create a separate .csv file for each country. In the Shiny app, another select input can be created to select a country. When every time a specific country is selected, the file (.csv) of that country will be read. In this way, we can handle this big file issue.

@@ -13,7 +13,7 @@ So with the help of [FilteringPolandDataOnly.R](Preprocessing/FilteringPolandDat
 | Dataset | Size | Description |   
 | --- | --- | --- |
 | occurence.csv | ≈ 20 GB | Contain records of the all the countries |
-| occurence_poland.csv | ≈ 20 MB | After filtering only poland data |
+| occurence_poland.csv | ≈ 20 MB | After filtering, only poland data |
 
 # Dashboard
 ![Main Dashboard](pics/one.PNG)
